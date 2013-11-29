@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChartGeneratorLibrary</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="chart_viewer">Charts</string>
+    
+    <string name="label_default_chart_selection">Chart Selection</string>
+    <string name="label_pie_chart">Pie Chart</string>
+    <string name="label_monochromatic_chart">Monochromatic Chart</string>
+    <string name="label_polychromatic_chart">Polychromatic Chart</string>
+    <string name="label_depth_level_chart">Depth Level Chart</string>
+    
+    <string name="label_chart_menu">Chart Menu</string>
+    <string name="label_depth_level_menu">Depth Level</string>
+    <string name="label_configuration_menu">Configuration</string>
+    
+    <string name="label_percentages_configuration">Show Percentages</string>
+    <string name="label_amount_configuration">Show Amount</string>
+    <string name="label_percentages_and_amount_configuration">Show Percentages and Amount</string>
+    <string name="label_colors_only_configuration">Show Colors Only</string>
+    
+    <string name="label_total">Total</string>
+
+</resources>

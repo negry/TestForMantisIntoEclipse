@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chart_viewer">Gráficos</string>
+    
+    <string name="label_default_chart_selection">Seleccion de Gráfico</string>
+    <string name="label_pie_chart">Gráfico de Pastel</string>
+    <string name="label_monochromatic_chart">Gráfico Monocromático</string>
+    <string name="label_polychromatic_chart">Gráfico Policromático</string>
+    <string name="label_depth_level_chart">Gráfico por Nivel de Profundidad</string>
+    
+    <string name="label_chart_menu">Menu de Gráfico</string>
+    <string name="label_depth_level_menu">Nivel de Profundidad</string>
+    <string name="label_configuration_menu">Configuración</string>
+    
+    <string name="label_percentages_configuration">Mostrar Porcentajes</string>
+    <string name="label_amount_configuration">Mostrar Cantidad</string>
+    <string name="label_percentages_and_amount_configuration">Mostrar Porcentajes y Cantidad</string>
+    <string name="label_colors_only_configuration">Mostrar Solo Colores</string>
+    
+    <string name="label_total">Total</string>
+</resources>
